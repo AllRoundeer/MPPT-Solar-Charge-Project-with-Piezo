@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=6-9DSOoZzJ4
+mppt sample output on blynk dashboard
+
+https://www.instructables.com/id/ARDUINO-SOLAR-CHARGE-CONTROLLER-Version-30/
+MMPT instructable solar charger
+
+https://www.instructables.com/id/ARDUINO-PWM-SOLAR-CHARGE-CONTROLLER-V-202/
+PWM instructable solar charger
